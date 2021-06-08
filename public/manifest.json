@@ -1,0 +1,16 @@
+{
+  "short_name": "UniFlare",
+  "name": "UniFlare",
+  "icons": [
+    {
+      "src": "./logo.svg",
+      "sizes": "14x15",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
